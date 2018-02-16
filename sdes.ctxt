@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=pText\ key\ left\ right
+comment1.target=int[]\ encrypt(int[],\ int[],\ int[],\ int[])
+comment2.params=cText\ key\ left\ right
+comment2.target=void\ decrypt(int[],\ int[],\ int[],\ int[])
+numComments=3
